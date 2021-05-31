@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="app"
+>
+  <main>
+    <div
+      className="search-box"
+    >
+      <input
+        className="search-bar"
+        onChange={[Function]}
+        onKeyPress={[Function]}
+        placeholder="Search any city then press enter..."
+        type="text"
+        value=""
+      />
+    </div>
+    
+  </main>
+</div>
+`;
